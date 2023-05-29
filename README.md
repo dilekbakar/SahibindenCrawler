@@ -12,7 +12,7 @@ sahibinden.com web sitesinin anasayfa vitrininden ilanları okumak için GetIlan
 
 İlan sınıfı, her bir ilanın özelliklerini (ilan ismi, detay URL'si, fiyat) temsil etmek için kullanılır.
 
-IP banlamalarına karşı sorunu çözecek bir algoritma geliştirmek için aşağıda belirttiğim öneriler dikkate alınabilir:
+IP banlamalarına karşı sorunu çözecek bir algoritma geliştirmek için aşağıda belirtlen öneriler dikkate alınabilir:
 - İstekler aralıklı bir şekilde yapılmalı: Web sitesine ardışık istekler yapmak yerine rastgele zaman aralıklarında istekler yaparak doğal bir kullanım taklit edilebilir.
 - Proxy kullanılmalı: Proxy sunucuları aracılığıyla istekler dağıtılarak IP adresi gizlenebilir.
 - CAPTCHA çözme hizmetleri: Bazı web siteleri CAPTCHA doğrulaması yaparak botları engellemeye çalışır. Bu durumda CAPTCHA çözme hizmetleri kullanarak otomatik olarak CAPTCHA'yı geçebilirsiniz.
